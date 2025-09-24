@@ -1,6 +1,6 @@
 ชื่อขนานช่อง
 ====== ช่อง Astro =========
 
-Astro Football 1 = q7Lm9x2AstroFbA1.m3u8
-Astro Football 2 = v8Kp3LmAstroFbA2.m3u8
+Astro Premier 1 = q7Lm9x2AstroPmA1.m3u8
+Astro Premier 2 = v8Kp3LmAstroPmA2.m3u8
 Astro Football 3 = r4Xn7LmAstroFbA3.m3u8

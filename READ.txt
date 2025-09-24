@@ -5,5 +5,12 @@
 - ls
 cat q7Lm9x2AstroPmA1.m3u8
 
+เพิ่มไฟล์ staging
+- git add q7Lm9x2AstroPmA1.m3u8
+
+commit
+- git commit -m "q7Lm9x2AstroPmA1.m3u8"
+
+
 ** Personal access tokens (classic)**
 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

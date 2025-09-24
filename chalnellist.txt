@@ -2,6 +2,6 @@
 ====== ช่อง Astro =========
 
 Astro football  = q7Lm9x2AstroFaA01.m3u8
-Astro Premier 1 = r4Xn7LmAstroFbA3.m3u8
+Astro Premier 1 = r4Xn7LmAstroPmA1.m3u8
 Astro Premier 2 = v8Kp3LmAstroPmA02.m3u8
 Astro Football 3 = 

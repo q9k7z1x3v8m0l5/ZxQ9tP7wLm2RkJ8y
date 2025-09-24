@@ -1,1 +1,5 @@
 cd /c/Githubtamfan/ZxQ9tP7wLm2RkJ8y
+
+
+Personal access tokens (classic)
+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

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:38:2F:EF&stream=1918162&extension=m3u8

@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=17500000
-http://brekna.club:80/play/live.php?mac=A0:BB:3E:2D:3C:64&stream=1608071&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://pxy.proxytx.cloud:80/play/live.php?mac=A0:BB:3E:1B:4D:91&stream=1608071&extension=ts
